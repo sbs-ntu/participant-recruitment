@@ -1,0 +1,17 @@
+.main-content {
+  font-size: 20px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+.logo img {
+  width: 45px;
+}
+
+.site-footer-owner {
+  display: flex;
+  justify-content: center;
+}
